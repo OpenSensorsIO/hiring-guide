@@ -14,7 +14,7 @@ Create and run the process based on what you need i.e. develop a set of question
 - Arrange a face to face interview 
 - Offer Job and ensure internal processes are up to speed with onboarding new recruit. 
 
-##Interviews ( ⌒o⌒)人(⌒-⌒ )v
+## Interviews ( ⌒o⌒)人(⌒-⌒ )v
 Interviews should include:
 - Technical ability (assessed by 2-3 people in both 1-2-1, pairing on problems and panel interviews)
 - Personality fit (assessed by at least 2 people in 1-2-1 interviews)
@@ -28,7 +28,7 @@ References are more important than interviews.  People bring their best selves t
 
 Hiring manager should do references personally, it’s the most important thing you will do.  
 
-Questions to ask
+## Questions to cover
 - Understand what it was like to work for that person
 - Ask situational questions e.g. how did the recruit take feedback? 
 - Dig for times when things didn’t go well, how did they react?
