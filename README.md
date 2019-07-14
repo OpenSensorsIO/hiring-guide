@@ -7,7 +7,7 @@ The successful applicant will be offered employment subject to a satisfactory ch
 ## Sections 
 
 - Intentions ( ◠‿◠ )	
-- Red Flags - automatic nos  (´ ͡༎ຶ ͜ʖ ͡༎ຶ )	
+- [Red Flags - automatic nos](Red-Flags.md)  (´ ͡༎ຶ ͜ʖ ͡༎ຶ )	
 - Good Flags - Get extra points (づ￣ ³￣)づ	
 - Hiring Process	
 - Pre recruitment Prep ｡◕‿◕｡
