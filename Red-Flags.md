@@ -1,6 +1,6 @@
 # Red Flags - automatic nos  (´ ͡༎ຶ ͜ʖ ͡༎ຶ )
 
-## The Title Whore (‿ˠ‿)( ͡⚆ ͜ʖ ͡⚆ )(‿ˠ‿)
+## The Title Collector (‿ˠ‿)( ͡⚆ ͜ʖ ͡⚆ )(‿ˠ‿)
 He left uni 5 years ago and calls himself VP Engineering/Sales/Marketing?
  LOL & Hard pass.  It’s not worth the energy to try to get him to understand what he doesn’t know. 
 
