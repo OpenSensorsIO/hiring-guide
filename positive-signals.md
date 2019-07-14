@@ -22,4 +22,4 @@ The underestimated are also often women, people with accents/immigrants or those
 
 Hire those people, give them the titles they deserve and watch magic happen
 
-![hoffman quote](Screenshot 2019-07-14 at 14.05.56.png)
+![hoffman quote](hoffman.png)
